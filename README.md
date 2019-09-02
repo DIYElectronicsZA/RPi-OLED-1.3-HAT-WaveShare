@@ -15,5 +15,7 @@ Now wait a minute for your Pi to reboot
 ## Links
 
 [DIYElectronics.co.za](https://www.diyelectronics.co.za/store/)
+
 [WaveShare OLED HAT](https://www.diyelectronics.co.za/store/displays/1950-3-inch-oled-hat-for-raspberry-pi-128x64.html?search_query=raspberry+pi+oled&results=6)
+
 [WaveShare Wiki](https://www.waveshare.com/1.3inch-oled-hat.htm)
