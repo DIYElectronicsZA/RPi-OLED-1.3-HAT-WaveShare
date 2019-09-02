@@ -11,6 +11,15 @@ $ sudo wget https://raw.githubusercontent.com/DIYElectronicsZA/RPi-OLED-1.3-HAT-
 $ sudo chmod +x setup.sh
 $ sudo ./setup.sh
 ```
+
+## Running the Demo Code
+
+Run these commands in terminal to run the demo code
+```
+$ cd Python3
+$ python3 Demo.py
+```
+
 ## Links
 
 [DIYElectronics.co.za](https://www.diyelectronics.co.za/store/)
