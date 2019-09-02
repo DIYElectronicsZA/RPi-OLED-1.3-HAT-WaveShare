@@ -2,7 +2,7 @@
 ## Neccessary Library and Demo Code Installation
 
 To install the neccessary libraries and demo code, please enter the follow commands into terminal
-```bash
+```console
 sudo raspi-config
 #Select Interfacing Options -> SPI -> Yes -> OK -> Finish
 sudo reboot now
