@@ -4,13 +4,13 @@
 
 To install the neccessary libraries and demo code, please enter the follow commands into terminal
 
-```* sudo raspi-config```
+* sudo raspi-config
 Select Interfacing Options -> SPI -> Yes -> OK -> Finish
-```* sudo reboot now``` 
+* sudo reboot now
 Now wait a minute for your Pi to reboot
-```* sudo wget https://raw.githubusercontent.com/DIYElectronicsZA/RPi-OLED-1.3-HAT-WaveShare/master/setup.sh
+* sudo wget https://raw.githubusercontent.com/DIYElectronicsZA/RPi-OLED-1.3-HAT-WaveShare/master/setup.sh
 * sudo chmod +x setup.sh
-* sudo ./setup.sh```
+* sudo ./setup.sh
 
 ## Links
 
