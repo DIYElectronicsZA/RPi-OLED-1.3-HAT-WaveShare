@@ -1,9 +1,7 @@
 # WaveShare Raspberry Pi OLED HAT
-
 ## Neccessary Library and Demo Code Installation
 
 To install the neccessary libraries and demo code, please enter the follow commands into terminal
-
 ```sh
 sudo raspi-config
 #Select Interfacing Options -> SPI -> Yes -> OK -> Finish
@@ -13,7 +11,6 @@ sudo wget https://raw.githubusercontent.com/DIYElectronicsZA/RPi-OLED-1.3-HAT-Wa
 sudo chmod +x setup.sh
 sudo ./setup.sh
 ```
-
 ## Links
 
 [DIYElectronics.co.za](https://www.diyelectronics.co.za/store/)
